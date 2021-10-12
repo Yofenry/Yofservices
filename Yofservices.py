@@ -18,3 +18,6 @@ if var1 == "yodafenry":
    webbrowser.open('https://ibb.co/Zh48QW0')
    var1 = input("Yofenry I Am ")
 
+if var1 == "snakeisfun:)":
+   exec(open('snakeminigame.py').read())
+   var1 = input("Now Type Another Thing But Enjoy The Game")
